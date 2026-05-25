@@ -31,9 +31,10 @@ STEPS = [
     ("07_gmm.py",                  "Gaussian Mixture Models (cechy pełne)"),
     ("07b_gmm_norfm.py",           "Gaussian Mixture Models (cechy bez RFM)"),
     ("08_metrics.py",              "Wszystkie mierniki"),
-    ("11_hopkins_statistic.py",    "Statystyka Hopkinsa + diagnostyka CoV"),
     ("09_comparison.py",           "Tabela porównawcza + wykresy"),
     ("10_per_model_plots.py",      "Wykresy analityczne per model (50 PNG)"),
+    ("11_hopkins_statistic.py",    "Statystyka Hopkinsa + diagnostyka CoV"),
+    ("12_dendrogram.py",    "Dendrogramy klasteryzacji hierarchicznej Warda"),
 ]
 
 
