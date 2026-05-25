@@ -39,6 +39,7 @@ Repozytorium obejmuje skrypty służące do:
 ├── 09_comparison.py
 ├── 10_per_model_plots.py
 ├── 11_hopkins_statistic.py
+├── 12_dendrogram.py
 ├── config.py
 ├── run_all.py
 └── README.md
@@ -63,6 +64,7 @@ Repozytorium obejmuje skrypty służące do:
 | `09_comparison.py` | Porównanie wyników uzyskanych przez poszczególne modele. |
 | `10_per_model_plots.py` | Przygotowanie wykresów i wizualizacji dla poszczególnych modeli. |
 | `11_hopkins_statistic.py` | Obliczenie statystyki Hopkinsa w celu oceny skłonności danych do tworzenia klastrów. |
+| `12_dendrogram.py – przygotowanie dendrogramu wykorzystywanego w analizie klasteryzacji hierarchicznej.|
 | `config.py` | Plik konfiguracyjny zawierający ścieżki i podstawowe ustawienia projektu. |
 | `run_all.py` | Skrypt umożliwiający uruchomienie pełnego procesu analitycznego. |
 
